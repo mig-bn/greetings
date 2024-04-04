@@ -17,7 +17,7 @@ package main
 
 import (
     "fmt"
-    "github.com/mig-bn/greetins"
+    "github.com/mig-bn/greetings"
 )
 
 func main() {
