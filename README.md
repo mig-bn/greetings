@@ -6,7 +6,7 @@ Este paquete prpociona una forma simple de obtener saludos personalizados y alea
 Ejecuta el siguiente comando para instalar el paquete:
 
 ```bash 
-go get -u github.com/mig-bn/greetins
+go get -u github.com/mig-bn/greetings
 ```
 
 ## Uso
